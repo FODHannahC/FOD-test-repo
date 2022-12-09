@@ -10,6 +10,8 @@ Before submitting this PR into the staging branch, please make sure to check:
 ## How Has This Been Tested?
 Please describe the tests that you ran to verify your changes.
 - [ ] I tested my changes in the browser
+  - [ ] in Mobile view
+  - [ ] in Desktop view     
 - [ ] I tested with Jest
 - [ ] I tested with Cypress
 
