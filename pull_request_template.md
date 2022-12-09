@@ -26,4 +26,4 @@ Checklist:
 - [ ] Is your code D.R.Y?
 - [ ] Does it follow SRP?
 
-Please include any relevant information on motivation and context (as well as any visual context for changes seen in the browser).
+Please include any relevant information and context (as well as any visual context for changes seen in the browser).
